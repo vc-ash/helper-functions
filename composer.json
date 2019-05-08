@@ -2,6 +2,7 @@
 {
     "name": "vc-ash/helper-functions",
     "version": "1.0",
+    "type": "library",
     "description": "Some helpful helper functions for PHP",
     "keywords": ["php", "functions"],
     "license": "MIT",
@@ -9,7 +10,7 @@
         {
             "name": "Ash Bulcroft",
             "email": "ashbulcroft@gmail.com",
-            "homepage": "https://github.com/vc-ash",
+            "homepage": "https://github.com/vc-ash"
         }
     ],
     "require": {
