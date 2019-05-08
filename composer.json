@@ -1,6 +1,7 @@
     
 {
     "name": "vc-ash/helper-functions",
+    "version": "1.0",
     "description": "Some helpful helper functions for PHP",
     "keywords": ["php", "functions"],
     "license": "MIT",
