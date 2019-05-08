@@ -22,8 +22,7 @@
             "functions/build_url.php",
             "functions/concat_path.php",
             "functions/concat_path.php",
-            "functions/pre_print.php",
-           
+            "functions/pre_print.php"
         ]
     }
 }
