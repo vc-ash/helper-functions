@@ -1,0 +1,27 @@
+    
+{
+    "name": "vc-ash/helper-functions",
+    "description": "Some helpful helper functions for PHP",
+    "keywords": ["php", "functions"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ash Bulcroft",
+            "email": "ashbulcroft@gmail.com",
+            "homepage": "https://github.com/vc-ash",
+        }
+    ],
+    "require": {
+        "php": "5.6"
+    },
+    "autoload": {
+        "psr-4": {"VcAsh\\HelperFunctions": "functions/"},
+        "files": [
+            "functions/build_url.php",
+            "functions/concat_path.php",
+            "functions/concat_path.php",
+            "functions/pre_print.php",
+           
+        ]
+    }
+}
