@@ -15,14 +15,5 @@
     ],
     "require": {
         "php": ">=5.6"
-    },
-    "autoload": {
-        "psr-4": {"VcAsh\\HelperFunctions": "functions/"},
-        "files": [
-            "functions/build_url.php",
-            "functions/concat_path.php",
-            "functions/concat_path.php",
-            "functions/pre_print.php"
-        ]
     }
 }
